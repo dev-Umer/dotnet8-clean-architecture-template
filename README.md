@@ -18,13 +18,13 @@ This starter kit gives you a solid foundation for building scalable, maintainabl
 
 ## 📂 Project Structure
 
-src/
-Core/ # Domain models & exceptions
-Application/ # CQRS, validators, pipeline behaviors
-Infrastructure/ # EF Core, repositories, DI setup
-WebAPI/ # Controllers, middleware, API layer
-tests/
-UnitTests/ # Sample unit tests
+- src/
+- Core/ # Domain models & exceptions
+- Application/ # CQRS, validators, pipeline behaviors
+- Infrastructure/ # EF Core, repositories, DI setup
+- WebAPI/ # Controllers, middleware, API layer
+- tests/
+- UnitTests/ # Sample unit tests
 
 ## 🚀 Getting Started
 
