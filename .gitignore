@@ -9,3 +9,9 @@
 /src/Infrastructure/obj
 /src/WebAPI/obj
 /tests/UnitTests/obj
+/src/Application/bin/Debug/net8.0
+/src/Core/bin/Debug/net8.0
+/src/Infrastructure/bin/Debug/net8.0
+/src/WebAPI/.vs/WebAPI
+/src/WebAPI/bin/Debug/net8.0
+/tests/UnitTests/bin/Debug/net8.0
