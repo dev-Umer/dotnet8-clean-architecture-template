@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/dotnet8-clean-architecture-template
+/.vs
+/src/Application/obj
+/src/Core/obj
+/src/Infrastructure/obj
+/src/WebAPI/obj
+/tests/UnitTests/obj
